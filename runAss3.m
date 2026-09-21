@@ -1,5 +1,5 @@
 % runAssignment03
-% Group 01, AY2025-2026
+% AY2025-2026
 
 close all; clear; clc;
 format long;
